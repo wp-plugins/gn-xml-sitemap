@@ -1,4 +1,4 @@
-=== Google XML News Sitemap plug ===
+=== Google XML News Sitemap plugin ===
 Contributors: Gary Illyes
 Tags: post,google,seo,news,google news,sitemap,posts,plugin,search engine optimization,XML news sitemap
 Requires at least: 2.5
