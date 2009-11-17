@@ -5,11 +5,13 @@ Requires at least: 2.5
 Tested up to: 2.8.6
 Stable tag: trunk
 
-Automatically generates a news sitemap using the [updated news sitemap specification](http://www.google.com/support/webmasters/bin/answer.py?hl=en&answer=74288).
+Automatically generates a Google News Sitemap using the [updated Google News Sitemap specification](http://www.google.com/support/webmasters/bin/answer.py?hl=en&answer=74288).
 
 == Description ==
 
-This is a Beta release. If you find a bug or you have a feature release, feel free to mail the developer.
+This is a Beta release. If you find a bug or you have a feature request, feel free to mail the developer.
+
+In order to have your website included in Google News, you will have to [suggest it for inclusion](http://www.google.com/support/news/bin/static.py?page=contact_policy.cs) first.
 
 Some features:
 
