@@ -19,7 +19,7 @@ Some features:
 * Ping Webmaster Tools when sitemap is updated
 
 
-Google News related questions? Find andwers in the [Google News Help Forum](http://www.google.com/support/forum/p/news?hl=en)
+Google News related questions? Find answers in the [Google News Help Forum](http://www.google.com/support/forum/p/news?hl=en)
 
 == Installation ==
 
