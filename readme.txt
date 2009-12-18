@@ -2,7 +2,7 @@
 Contributors: Gary Illyes
 Tags: post,google,seo,news,google news,sitemap,posts,plugin,search engine optimization,XML news sitemap
 Requires at least: 2.5
-Tested up to: 2.8.6
+Tested up to: 2.9
 Stable tag: trunk
 
 Automatically generates a Google News Sitemap using the [updated Google News Sitemap specification](http://www.google.com/support/webmasters/bin/answer.py?hl=en&answer=74288).
