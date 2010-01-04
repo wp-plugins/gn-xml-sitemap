@@ -1,5 +1,6 @@
 === Google XML News Sitemap plugin ===
 Contributors: Gary Illyes
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=10928083
 Tags: post,google,seo,news,google news,sitemap,posts,plugin,search engine optimization,XML news sitemap
 Requires at least: 2.5
 Tested up to: 2.9
