@@ -2,8 +2,8 @@
 /*
 	Plugin Name: GN Sitemap Generator
 	Plugin URI: http://www.google.com/profiles/109139237014771009015?hl=en
-	Description: Automatically generates a news sitemap used by Google News. If you didn't yet, suggest your site for inclusion in Google News then use this plugin to create the news sitemap. <strong>You must go to <a href="options-general.php?page=apgnsm.php">Settings -> Google News Sitemap</a> for initial setup!</strong> If you have a feature request or issue with the plugin, please post in the Google News Help Forum. Partialy based on <a href="http://www.andreapernici.com/wordpress/google-news-sitemap/">Andrea Pernici's</a> Google News Sitemap plugin
-	Version: 0.01
+	Description: Automatically generates a news sitemap used by Google News. If you didn't yet, suggest your site for inclusion in Google News then use this plugin to create the news sitemap. <strong>You must go to <a href="options-general.php?page=main.php">Settings -> Google News Sitemap</a> for initial setup!</strong> If you have a feature request or issue with the plugin, please post in the Google News Help Forum. Partialy based on <a href="http://www.andreapernici.com/wordpress/google-news-sitemap/">Andrea Pernici's</a> Google News Sitemap plugin
+	Version: 0.02
 	Author: Gary Illyes (methode)
 	Author URI: http://www.google.com/profiles/109139237014771009015?hl=en
 	
@@ -22,7 +22,7 @@
 	Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 
 	*/
-	$gns_sitemap_version = "0.01";
+	$gns_sitemap_version = "0.02";
 
 
 	add_option('gns_active', true);
@@ -338,7 +338,7 @@
 			<td><select name="gns_n_genres_type" style="width:230px;">
                         	<option <?php echo $gns_n_genres_type=="NA"?'selected="selected"':'';?> value="NA">Not Applicable</option>
 							<option <?php echo $gns_n_genres_type=="Blog"?'selected="selected"':'';?> value="Blog">Blog</option>
-							<option <?php echo $gns_n_genres_type=="PressRelease"?'selected="selected"':'';?> value="PressReleases">Press Release</option>
+							<option <?php echo $gns_n_genres_type=="PressRelease"?'selected="selected"':'';?> value="PressRelease">Press Release</option>
 							<option <?php echo $gns_n_genres_type=="UserGenerated"?'selected="selected"':'';?> value="UserGenerated">UserGenerated</option>
                             <option <?php echo $gns_n_genres_type=="Satire"?'selected="selected"':'';?> value="Satire">Satire</option>
                             <option <?php echo $gns_n_genres_type=="OpEd"?'selected="selected"':'';?> value="OpEd">OpEd</option>
@@ -840,7 +840,7 @@ input, select {width:250px;}
 			<td><select name="gns_n_genres_type">
                         	<option <?php echo $gns_n_genres_type=="NA"?'selected="selected"':'';?> value="NA">Not Applicable</option>
 							<option <?php echo $gns_n_genres_type=="Blog"?'selected="selected"':'';?> value="Blog">Blog</option>
-							<option <?php echo $gns_n_genres_type=="PressRelease"?'selected="selected"':'';?> value="PressReleases">Press Release</option>
+							<option <?php echo $gns_n_genres_type=="PressRelease"?'selected="selected"':'';?> value="PressRelease">Press Release</option>
 							<option <?php echo $gns_n_genres_type=="UserGenerated"?'selected="selected"':'';?> value="UserGenerated">UserGenerated</option>
                             <option <?php echo $gns_n_genres_type=="Satire"?'selected="selected"':'';?> value="Satire">Satire</option>
                             <option <?php echo $gns_n_genres_type=="OpEd"?'selected="selected"':'';?> value="OpEd">OpEd</option>
